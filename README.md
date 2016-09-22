@@ -5,6 +5,7 @@ It runs within the ODL controller and provides a simple RESTful API for using.
 ## How to build and run
 
     # git clone https://github.com/siwind/hello-odl-boron.git
+    # cd hello-odl-boron
     # mvn clean install
     # ./karaf/target/assembly/bin/karaf
 
